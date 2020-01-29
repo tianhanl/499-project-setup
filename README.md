@@ -16,7 +16,7 @@ Vagrant file is attached.
 
 1. gRPC
 2. Protobuf
-3. cmake - as build tool
+3. CMake - as build tool
 
 ### Git submodule
 
