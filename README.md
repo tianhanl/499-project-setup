@@ -14,18 +14,18 @@ Vagrant file is attached.
 
 ### Globally installed
 
-gRPC
-Protobuf
-cmake - as build tool
+1. gRPC
+2. Protobuf
+3. cmake - as build tool
 
 ### Git submodule
 
 (For people who are not familiar with submodule: https://www.atlassian.com/git/tutorials/git-submodule)
 
-googletest
-gflags
-benchmark
-glog
+1. googletest
+2. gflags
+3. benchmark
+4. glog
 
 ## Install
 
