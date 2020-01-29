@@ -3,6 +3,7 @@
 You can find resources about CMake in `CMake-Tutorial.md`.
 
 Following are instructions about how to set up project environment from the last semester.
+(This setup guide is for building gRPC from source. If you are installing gRPC with `apt`, the installation and the compilation parts will be different.)
 
 ## Environment
 
