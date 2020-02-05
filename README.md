@@ -77,3 +77,14 @@ sudo make install
 sudo cmake .
 make
 ```
+
+## Testing
+
+Unittesting have been register with `ctest`, and you can run all of them via:
+
+```bash
+# After make
+make test
+```
+
+[Example](https://github.com/bast/gtest-demo)
