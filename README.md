@@ -80,10 +80,10 @@ make
 
 ## Testing
 
-Unittesting have been register with `ctest`, and you can run all of them via:
+Unittesting have been registered with `ctest`, and you can run all of them via:
 
 ```bash
-# After make
+#s After make
 make test
 ```
 
